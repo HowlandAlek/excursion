@@ -1,0 +1,44 @@
+body {
+	background-color: black;
+	text-align: center;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	display: block;
+	margin-top: 8px;
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-bottom: 8px;
+}
+
+header h1 {
+	font-weight: normal;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	margin-block-end: 33.5;
+	margin-block-start: 33.5;
+	margin-inline-end: 0px;
+	margin-inline-start: 0px;
+}
+
+header a,
+main a {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+main h1,
+main h2 {
+	font-weight: 300;
+	font-size: 42px;
+	color: white;
+}
+
+main p {
+	font-size: 21px;
+	color: gray;
+}
+
+footer {
+	text-align: right;
+	color: gray;
+}
